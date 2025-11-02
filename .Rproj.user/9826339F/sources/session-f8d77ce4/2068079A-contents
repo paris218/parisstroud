@@ -1,0 +1,142 @@
+/*-- scss:defaults--*/
+
+/*Import Goggle font*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600&display=swap');
+
+$font-family-sans-serif: "Barlow","Trebuchet MS", Arial, sans-serif;
+$body-bg:#DED9CE;
+$body-color:#103F56;
+$link-color:#5D9B59;
+$navbar-bg:#092330;
+$navbar-fg:#EFE9EB;
+$navbar-h1:#C1235B;
+$headings-color:#10412E;
+/*--
+$font-family-sans-serif: "Barlow","Trebuchet MS", Arial, sans-serif;
+$body-bg:#DAE2ED;
+$body-color:#022044;
+$link-color:#C21350;
+$navbar-bg:#022044;
+$navbar-fg:#EFE9EB;
+$navbar-h1:#C1235B;
+$headings-color:#2F0407; 480617
+--*/
+
+/*-- scss:rules --*/
+body {
+  font-family: $font-family-sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.5;
+  background-color: $body-bg;
+}
+
+.page-content{ 
+  background-color:#EEF2E4CC;
+  border: 8px solid #0C3449; 
+  border-radius: 12px;
+  padding-top: 1rem;  
+  padding-right: 2rem;  
+  padding-bottom: 2.5rem; 
+  padding-left: 2rem;
+  max-width: 30000px;
+  margin: 0 auto;
+  overflow: auto;
+} 
+
+.page-content h1{
+  font-size: 2.5rem;
+  color: $headings-color;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color:#022044;
+}
+
+.page-content h2, 
+.page-content h3, 
+.page-content h4, 
+.page-content h5, 
+.page-content h6 {
+  color: $headings-color;
+}
+
+.page-content a {
+  color:#7E873C;
+  font-weight: 700;
+}
+
+.page-content a:hover {
+  color:#FB3376;
+  text-decoration:underline;
+}
+
+.subtitle {
+  display: block;
+  font-size: 1.2rem;
+  color: #6EA0C0;
+  font-style: italic;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.section-header { 
+  font-size: 1.6rem;
+  color: $headings-color;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.navbar {
+  background-color: $navbar-bg !important;
+}
+
+.navbar .nav-link.active {
+  background-color:#CAF282CC;
+  color: $body-color !important;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.text-bold {
+  font-weight: bold;
+  color: #90A955;
+}
+
+.text-underline {
+  text-decoration: underline;
+  text-decoration-color:#022044;
+}
+
+.text-italic {
+  font-style: italic;
+  color: #D5EBA7;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #353F20;
+  border: none;
+  color: #FFFFE0;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  background-color: #F055A5;
+  color: #FFFFE0;
+}
+
+/* Blockquotes */
+.blockquotes {
+  border-left: 5px solid #CCD536;
+  background-color: #FFFFE0cc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+
+

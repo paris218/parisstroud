@@ -1,0 +1,14 @@
+---
+toc: false 
+---
+
+# <span style="color: #022044; display: block; text-align: center;text-decoration: underline;">About Me<span/>
+
+```{=html}
+<img src="pictures/IMG_0262.jpeg"
+     alt="Headshot" 
+     width="400" 
+     style="display:inline-block; float: left; margin:0 30px 10px 0; border: 8px solid #2F0407; border-radius: 15px;">
+```
+
+A little bit about me :)

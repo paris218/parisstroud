@@ -1,0 +1,23 @@
+{
+  "contact.qmd": {
+    "contact.html": "4c55e494"
+  },
+  "resume.qmd": {
+    "resume.html": "f76f4d2e"
+  },
+  "index.qmd": {
+    "index.html": "c3173579"
+  },
+  "about.qmd": {
+    "about.html": "3b7382f1"
+  },
+  "SpeakingEngagements.qmd": {
+    "SpeakingEngagements.html": "9e4cc9a5"
+  },
+  "speaking.qmd": {
+    "speaking.html": "f5064dab"
+  },
+  "projects.qmd": {
+    "projects.html": "801550ba"
+  }
+}

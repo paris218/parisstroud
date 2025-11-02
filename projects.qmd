@@ -3,9 +3,9 @@ anchor-sections: false
 ---
 ::: page-content
 
-# <span style="color:#440712; display:block; text-align:center;">PRESENTATIONS AND PROJECTS</span>
+# <span style="color:#440712; display:block; text-align:center;">Presentations and Projects</span>
 
-## <span style="color:#7A0C2D; display:block; text-align:center;">Presentations</span>
+## <span style="color:#7A0C2D; display:block; text-align:center;text-decoration:underline;">Presentations</span>
 
 ### Determinants of Self-Reported Coronary Artery Disease Prevalence Among U.S. Adults.
 
@@ -19,9 +19,9 @@ Washington, D.C.\| November 2025\
 *United States Green Building Council Women in Green Georgia*\
 Atlanta, GA \| September 2025\
 
-<img src="pictures/IMG_7570.jpeg" alt="USGBC Women in Green Photo" width="200" style="display:inline-block;
-     margin:-160px 0 10px 10px;
-     float:right; border-radius: 15px;"/>\
+<img src="pictures/IMG_7570.jpeg" alt="USGBC Women in Green Photo" width="200" style="display:block;
+     margin:20px auto 30px auto;
+     border: 6px solid #ADB951; border-radius: 15px;"/>\
 
 ### Bridging Environmental and Public Health: Partnerships for Positive Impact
 
@@ -30,20 +30,20 @@ Atlanta, GA \| September 2025\
 Miami, FL \| June 2025\
 
 <img src="pictures/IMG_6338.jpg" alt="USGBC Women in Green Photo" width="200" style="display:block;
-     margin:-100px 0 10px 10px; 
-     float:right; border: 6px solid #ADB951; border-radius: 15px;"/>\
+     margin:20px auto 0 auto;
+     border: 6px solid #ADB951; border-radius: 15px;"/>\
 
 <br>\
 <br>
 
-## <span style="color:#7A0C2D; display:block; text-align:center;">Projects</span>
+## <span style="color:#7A0C2D; display:block; text-align:center; text-decoration:underline;">Projects</span>
 
 ### Digital Community Health Dashboard
 
 *Communities Who Know Inc.*\
 
-I assisted in the maintenance an interactive 
+Assisted in the maintenance of an interactive 
 <a href="https://www.dashboard.communitieswhoknow.com/Home/" target="blank">dashboard</a> 
-aggregating local public health data. I Integrated data sets on demographics, health outcomes, and environmental indicators. Enhanced accessibility of public health insights for Atlanta community partners and residents.
+aggregating local public health data. Integrated data sets on demographics, health outcomes, and environmental indicators. Enhanced accessibility of public health insights for Atlanta community partners and residents.
 
 :::

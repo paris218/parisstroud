@@ -3,7 +3,7 @@ anchor-sections: false
 ---
 ::: page-content
 
-# <span style="color:#76802F; display:block; text-align:center;">Resume</span>
+# <span style="color:#440712; display:block; text-align:center;">Resume</span>
 
 
 ## Research Fellow 

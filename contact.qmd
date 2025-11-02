@@ -10,6 +10,6 @@ anchor-sections: false
 </p>
 
 📧 **Email**: pstroud\@msm.edu \| paris.stroud\@gmail.com\
-🔗 <a href="www.linkedin.com/in/paris-stroud-mph-well-ap-a88041315" target="_blank">LinkedIn<a/>\
+🔗 <a href="https://www.linkedin.com/in/paris-stroud-mph-well-ap-a88041315" target="blank">LinkedIn</a> 
 
 :::

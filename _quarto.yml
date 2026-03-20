@@ -10,7 +10,9 @@ website:
       - href: projects.qmd 
         text: Presentations and Projects
       - href: resume.qmd
-        text: Resume
+        text: Experience
+      - href: member.qmd
+        text: Affiliations
       - href: contact.qmd
         text: Contact
       

@@ -1,0 +1,15 @@
+---
+title: "Notes"
+execute: false
+format: html
+draft: true
+---
+
+<!-- To preveiew site in mobile view: 
+quarto render 
+in terminal
+-->
+
+<!-- To finalize updates with Github
+-->
+

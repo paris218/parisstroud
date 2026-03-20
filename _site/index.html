@@ -126,6 +126,28 @@ ul.task-list li input[type="checkbox"] {
 <h1><span style="color: #022044; display: block; text-align: center;text-decoration: underline;">About Me<span></span></span></h1>
 <img src="pictures/IMG_0262.jpeg" alt="Headshot" width="400" style="display:inline-block; float: left; margin:0 30px 10px 0; border: 8px solid #2F0407; border-radius: 15px;">
 <p>Hi, I’m Paris Stroud, a public health professional specializing in environmental health and sustainability. I love analyzing data to develop solutions that help communities thrive. My work combines data analysis and hands-on initiatives to promote health, equity, and sustainability.</p>
+<p>&lt;!–To publish updates run this in the terminal</p>
+</section>
+<section id="render-the-site-locally" class="level1">
+<h1>Render the site locally</h1>
+<p>quarto render</p>
+</section>
+<section id="stage-all-changes-source-files" class="level1">
+<h1>Stage all changes (source files)</h1>
+<p>git add .</p>
+</section>
+<section id="commit-with-a-timestamped-message" class="level1">
+<h1>Commit with a timestamped message</h1>
+<p>git commit -m “Update site $(date +‘%Y-%m-%d %H:%M:%S’)” || echo “No changes to commit”</p>
+</section>
+<section id="push-source-files-to-main-branch" class="level1">
+<h1>Push source files to main branch</h1>
+<p>git push origin main</p>
+</section>
+<section id="publish-to-github-pages-via-gh-pages-branch" class="level1">
+<h1>Publish to GitHub Pages via gh-pages branch</h1>
+<p>quarto publish gh-pages</p>
+<p>–!&gt;</p>
 
 
 </section>

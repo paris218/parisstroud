@@ -1,11 +1,11 @@
 ---
 anchor-sections: false
 ---
+
 ::: page-content
+# [Presentations and Projects]{style="color:#440712; display:block; text-align:center;"}
 
-# <span style="color:#440712; display:block; text-align:center;">Presentations and Projects</span>
-
-## <span style="color:#7A0C2D; display:block; text-align:center;text-decoration:underline;">Presentations</span>
+## [Presentations]{style="color:#7A0C2D; display:block; text-align:center;text-decoration:underline;"}
 
 ### Determinants of Self-Reported Coronary Artery Disease Prevalence Among U.S. Adults.
 
@@ -17,11 +17,14 @@ Washington, D.C.\| November 2025\
 
 **Panelist**\
 *United States Green Building Council Women in Green Georgia*\
-Atlanta, GA \| September 2025\
+Atlanta, GA \| September 2025
 
-<img src="pictures/IMG_7570.jpeg" alt="USGBC Women in Green Photo" width="200" style="display:block;
-     margin:20px auto 30px auto;
-     border: 6px solid #ADB951; border-radius: 15px;"/>\
+```{=html}
+<img src="paris-silone-stroud-women-in-green-panel.jpeg"
+     alt="Paris Stroud speaking on the USGBC Women in Green Georgia Panel in Atlanta" 
+     width="200" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />\
+```
 
 ### Bridging Environmental and Public Health: Partnerships for Positive Impact
 
@@ -29,21 +32,23 @@ Atlanta, GA \| September 2025\
 *Green Sports Alliance Annual Meeting*\
 Miami, FL \| June 2025\
 
-<img src="pictures/IMG_6338.jpg" alt="USGBC Women in Green Photo" width="200" style="display:block;
+```{=html}
+<img src="paris-silone-stroud-green-sports-alliance-speaking.jpg"
+     alt=" Paris Stroud Speaking at the 2025 Green Sports Alliance Summit in Miami" 
+     width="200" 
+     style="display:block;
      margin:20px auto 0 auto;
-     border: 6px solid #ADB951; border-radius: 15px;"/>\
+     border: 6px solid #ADB951; border-radius: 15px;"/>
+```
 
 <br>\
 <br>
 
-## <span style="color:#7A0C2D; display:block; text-align:center; text-decoration:underline;">Projects</span>
+## [Projects]{style="color:#7A0C2D; display:block; text-align:center; text-decoration:underline;"}
 
 ### Digital Community Health Dashboard
 
-*Communities Who Know Inc.*\
+*Center of Excellence on Environmental Health and Sustainability, Morehouse School of Medicine*\
 
-Assisted in the maintenance of an interactive 
-<a href="https://www.dashboard.communitieswhoknow.com/Home/" target="blank">dashboard</a> 
-aggregating local public health data. Integrated data sets on demographics, health outcomes, and environmental indicators. Enhanced accessibility of public health insights for Atlanta community partners and residents.
-
+Assisted in the maintenance of an interactive <a href="https://www.dashboard.communitieswhoknow.com/Home/" target="blank">dashboard</a> aggregating local public health data. Integrated data sets on demographics, health outcomes, and environmental indicators. Enhanced accessibility of public health insights for Atlanta community partners and residents.
 :::

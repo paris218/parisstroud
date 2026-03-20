@@ -14,3 +14,23 @@ toc: false
 
 Hi, I’m Paris Stroud, a public health professional specializing in environmental health and sustainability.
 I love analyzing data to develop solutions that help communities thrive. My work combines data analysis and hands-on initiatives to promote health, equity, and sustainability.
+
+
+<!--To publish updates run this in the terminal
+
+# Render the site locally
+quarto render
+
+# Stage all changes (source files)
+git add .
+
+# Commit with a timestamped message
+git commit -m "Update site $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+
+# Push source files to main branch
+git push origin main
+
+# Publish to GitHub Pages via gh-pages branch
+quarto publish gh-pages
+
+--!>

@@ -3,7 +3,7 @@ anchor-sections: false
 ---
 
 ::: page-content
-# [Resume]{style="color:#440712; display:block; text-align:center;"}
+# [Experience]{style="color:#440712; display:block; text-align:center;"}
 
 ## Research Fellow
 
@@ -12,10 +12,10 @@ anchor-sections: false
 **Center of Excellence on Environmental Health and Sustainability, Morehouse School of Medicine, Atlanta, GA**\
 *Sept 2025 – Present* 
 
--   Lead student research on environmental health, wellness, and sustainability in the built environment.\
--   Translate research findings into reports, dashboards, presentations, and educational materials for internal and external audiences.\
--   Manage strategic tasks, including board-level planning, curriculum development, and data tracking, and to support organizational decision-making.\
--   Coordinate meetings with community partners and stakeholders.\
+-   Direct research projects on sustainability, wellness, and environmental health in the built environment.\
+-   Produce and deliver reports, dashboards, and presentations to translate research into actionable insights for internal and external audiences.\
+-   Drive center board-level planning, sustainability curriculum development, and data tracking, and to support organizational decision-making.\
+-   Advance sustainability integration across departmental research, programming, and stakeholder engagement.\
 
 ## Data Analysis Intern
 

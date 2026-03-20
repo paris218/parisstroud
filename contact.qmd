@@ -1,15 +1,25 @@
 ---
 anchor-sections: false
 ---
-::: page-content
 
-# <span style="color:#2F0407; display:block; text-align:center;">Contact</span>
+::: page-content
+# [Contact]{style="color:#2F0407; display:block; text-align:center;"}
 
 <p style="text-align:center;">
+
 **I am always open to connect and collaborate!**
+
 </p>
 
 📧 **Email**: pstroud\@msm.edu \| paris.stroud\@gmail.com\
-🔗 <a href="https://www.linkedin.com/in/parissstroud" target="blank">LinkedIn</a> 
+🔗 <a href="https://www.linkedin.com/in/parissstroud" target="blank">LinkedIn</a>
 
+Download my <a href="https://drive.google.com/file/d/1kNkvIKgccdEncf1EJXzHsX6G60eUL5ZG/view?usp=sharing" target="blank">Resume</a>
+
+```{=html}
+<img src="pictures/paris-stroud-wawa.jpg"
+     alt="Paris Stroud at West Atlanta Watershed Alliance volunteer event"
+     width="250" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #2F0407; border-radius:15px;" />
+```
 :::

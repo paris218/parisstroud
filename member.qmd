@@ -1,0 +1,70 @@
+---
+anchor-sections: false
+---
+
+::: page-content
+# [Networks and Communities]{style="color:#440712; display:block; text-align:center;"}
+
+## WELL Accredited Professional
+
+**Credential:WELL-AP-0000173714**
+
+```{=html}
+<img src="pictures/well_ap-01 copy.jpg" 
+     alt="WELL Logo" 
+     width="200" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## City of Atlanta Sustainability Ambassadors
+
+```{=html}
+<img src="pictures/paris-silone-stroud-sustainability-ambassador.jpg" 
+     alt="Paris Silone Stroud at City of Atlanta Sustainability Ambassador Celebration" 
+     width="250" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## FIFA World Cup ‘26 Sustainability and Human Rights Volunteer
+
+```{=html}
+<img src="pictures/paris-stroud-fifa-volunteer-tryout.jpg" 
+     alt="Paris Silone Stroud at FIFA World Cup Volunteer Tryouts" 
+     width="200" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## MLB ’25 All-Star Game Green Team
+
+```{=html}
+<img src="pictures/paris-silone-stroud-green-team.jpg" 
+     alt="Paris Silone Stroud at the MLB All Star Game Green Tean" 
+     width="400" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## Green Sports Alliance
+
+```{=html}
+<img src="pictures/paris-stroud-green-sports-alliance-summit.JPG" 
+     alt="Paris Silone Stroud at Green Sports Alliance Summit Reception" 
+     width="250" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## American Public Health Association
+
+```{=html}
+<img src="pictures/apha-logo.jpg" 
+     width="250" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+
+## Alpha Kappa Alpha Sorority Incorporated
+
+```{=html}
+<img src="pictures/AKA-1908.jpeg" 
+     width="200" 
+     style="display:block; margin:20px auto 30px auto; border:6px solid #ADB951; border-radius:15px;" />
+```
+:::
